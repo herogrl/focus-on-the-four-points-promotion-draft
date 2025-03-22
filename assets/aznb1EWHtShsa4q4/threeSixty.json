@@ -1,0 +1,27 @@
+{
+  "version": "3.96.33815.0",
+  "course_id": "6P2UQzmGpEe",
+  "title": "Elevator-Pitch-Fill-in-the-Blank",
+  "thumbnail": "story_content/thumbnail.jpg",
+  "scenes": [
+    {
+      "title": "Untitled Scene"
+    }
+  ],
+  "slides": [
+    {
+      "id": "66kodDyxn0E",
+      "title": "Fill-in-the-Blank",
+      "scene_index": "1.1"
+    }
+  ],
+  "player": {
+    "name": "unified",
+    "width": 740,
+    "height": 611
+  },
+  "stage": {
+    "width": 720,
+    "height": 540
+  }
+}
